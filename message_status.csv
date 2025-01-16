@@ -1,0 +1,9 @@
+statusID,keyword,dateflagged,reason,Moderator_ID,Moderation_Area,messageID
+1,spam,2024-02-01 10:00:00,Offensive Language,1,Gaming,2
+2,hate,2024-02-02 11:00:00,Hate Speech,2,Coding,4
+3,help,2024-02-03 12:00:00,Spam,3,Support,6
+4,test,2024-02-04 13:00:00,Abuse,4,Design,8
+5,policy,2024-02-05 14:00:00,Misleading,5,Marketing,3
+6,tip,2024-02-06 15:00:00,False Info,6,Management,1
+7,resource,2024-02-07 16:00:00,Offensive Content,7,HR,7
+8,code,2024-02-08 17:00:00,Violation,8,Education,5

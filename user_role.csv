@@ -1,0 +1,9 @@
+roleID,roleName,color,permissions,serverID
+1,Admin,Red,All,1
+2,Member,Green,Read/Write,1
+3,Moderator,Blue,Moderate,2
+4,Guest,Yellow,Read-Only,2
+5,Owner,Purple,All,3
+6,SupportAgent,Orange,HelpOnly,3
+7,Manager,Gray,Admin,4
+8,Viewer,Teal,ReadOnly,4

@@ -1,0 +1,9 @@
+userID,username,email,joinDate,isActive
+1,Alice,alice@example.com,2024-01-01,True
+2,Bob,bob@example.com,2024-01-02,True
+3,Charlie,charlie@example.com,2024-01-03,False
+4,Diana,diana@example.com,2024-01-04,True
+5,Eve,eve@example.com,2024-01-05,True
+6,Frank,frank@example.com,2024-01-06,True
+7,Grace,grace@example.com,2024-01-07,True
+8,Hannah,hannah@example.com,2024-01-08,True
